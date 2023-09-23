@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/анастасия-байбикова-639b19291/" target="_blank">Anastasia</a> 
+<h1 align="center">    Hi there, I'm <a href="https://www.linkedin.com/in/анастасия-байбикова-639b19291/" target="_blank">Anastasia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">A passionate Data Analyst from Russia 🇷🇺</h3>
+<h3 align="center">A passionate Data Analyst from Russia     </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
