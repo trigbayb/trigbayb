@@ -2,6 +2,16 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">A passionate Data Analyst from Russia     </h3>
 
+⚡ Goals for 2023:
+- to learn something new everyday.
+- to complete SQL 50 from Leetcode
+- to create 3 powerfull projects on Tableau
+
+  Fun fact: Banging your head against a wall for one hour burns 150 calories.
+
+<br />
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/анастасия-байбикова-639b19291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anastasia baybikova" height="30" width="40" /></a>
