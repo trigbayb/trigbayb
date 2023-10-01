@@ -4,8 +4,8 @@
 
 ⚡ Goals for 2023:
 - to learn something new everyday.
-- to complete SQL 50 from Leetcode
-- to create 3 powerfull projects on Tableau
+- to complete all SQL and Pandas questions from Leetcode
+- to create the best projects on Tableau
 
 <br />
 
