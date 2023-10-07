@@ -11,8 +11,8 @@
 
 
 ### Connect with me:
-<img align="left" title="Telegram" alt="BaybikovaAnastasia" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
-<img align="left" title="Gmail" alt="anastasia.baybikova@yandex.ru" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+[<img align="left" title="Telegram" alt="BaybikovaAnastasia | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />][Telegram]
+[<img align="left" title="Gmail" alt="BaybikovaAnastasia | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" />][Yandex]
 
 <br />
 
@@ -24,6 +24,11 @@
 <img align="left" title="Seaborn" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
 <img align="left" title="Scipy" alt="Scipy" width="26px" src="https://scipy.org/images/logo.svg" />
 <br />
+
+---
+[Telegram]: https://t.me/BaybikovaAnastasia
+[Yandex]: mailto:anastasia.baybikova@yandex.ru
+
 
 
 
