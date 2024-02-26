@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">A passionate Data Analyst from Russia     </h3>
 
-⚡ Goals for 2023:
+⚡ Goals for 2024:
 - to learn something new everyday.
 - to complete all SQL and Pandas questions from Leetcode
 - to create the best projects on Tableau
